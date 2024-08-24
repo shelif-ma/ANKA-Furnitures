@@ -35,7 +35,7 @@ const Cards = () => {
               : "sm:text-xl text-white text-2xl font-normal pt-10 no-underline font-inter align-middle tracking-wide normal-case leading-none cursor-pointer"
           }
         >
-          Explore all the nice stuff that AxeL is providing and much more...{" "}
+          Explore all the nice stuff that Anka is providing and much more...{" "}
         </p>
         <div className="w-full flex flex-row items-center justify-evenly pt-10">
           <div>

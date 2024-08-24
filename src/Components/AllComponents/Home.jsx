@@ -33,7 +33,8 @@ const Home = () => {
       </div>
       <div className="bg-gray-100 w-full">
         <WrapperContainer>
-          <MidFilterSection></MidFilterSection>
+          <MidFilterSection
+          ></MidFilterSection>
           <MidComponentParent></MidComponentParent>
           <TabsComponent></TabsComponent>
           <FurnitureFlow></FurnitureFlow>

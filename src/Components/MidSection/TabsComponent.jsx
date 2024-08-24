@@ -35,7 +35,7 @@ const TabsComponent = () => {
                 : "sm:text-xl text-2xl  pb-4 font-normal font-inter no-underline align-middle tracking-wide normal-case leading-none text-white"
             }
           >
-            AxeL offers many great features. You can create your own room,
+            Anka offers many great features. You can create your own room,
             request a service, buy modern lookiing furniture, sell a furniture
             and so much more. Take a snek peek at each of them.
           </p>

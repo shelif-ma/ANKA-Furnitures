@@ -79,12 +79,12 @@ const Footer = () => {
       <div className="flex justify-around items-center py-6">
         <div>
           <p className="sm:text-sm text-dark pb-2 font-inter font-medium cursor-pointer no-underline align-middle tracking-wide normal-case">
-            AxeL
+            Anka
           </p>
         </div>
         <div>
           <p className="sm:text-xs text-dark pb-2 font-inter font-light cursor-pointer no-underline align-middle tracking-wide normal-case">
-            Copyright {year} page by Marko Web Dev
+            Copyright {year} page by Shelif M A
           </p>
         </div>
       </div>

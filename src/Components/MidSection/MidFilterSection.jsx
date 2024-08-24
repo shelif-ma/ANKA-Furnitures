@@ -40,7 +40,10 @@ const MidFilterSection = () => {
   }, []);
 
   return (
-    <div className="mx-auto pt-72 pb-56" id="news">
+    <div
+      className="mx-auto pt-72 pb-56"
+      id="news"
+    >
       <div className="sm:grid-cols-1 grid grid-cols-2 justify-items-center items-center">
         <motion.div
           className="sm:pt-10 sm:w-full sm:pl-4 w-4/5 mx-auto pl-24"

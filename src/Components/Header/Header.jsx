@@ -22,7 +22,7 @@ const Header = ({ topRef }) => {
                 : "sm:text-3xl text-5xl font-russonOne font-medium no-underline align-middle tracking-wide normal-case leading-normal text-white"
             }
           >
-            AxeL Brand new{" "}
+            Anka Brand new{" "}
             <span
               className={
                 theme === "light"

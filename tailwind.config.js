@@ -10,7 +10,7 @@ module.exports = withMT({
         russonOne: ["Russon One"],
       },
       colors: {
-        royalBlue: "#4169e1",
+        royalBlue: "#53758C",
         darkBlue: "#0d1117",
         dark: "#0d1117",
       },
